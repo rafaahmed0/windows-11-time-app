@@ -5,4 +5,4 @@ Note: This project requires Python 3.12 or later to run.
 
 INSTALL INSTRUCTIONS: pip install -r requirements.txt
 
-LAUNCH INSTRUCTIONS: python main.py
+LAUNCH INSTRUCTIONS: python src/main.py
