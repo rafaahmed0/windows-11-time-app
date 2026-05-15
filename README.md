@@ -4,6 +4,7 @@ This Python application creates a system tray clock that displays the current ti
 Note: This project requires Python 3.12 or later to run.
 
 To launch TimeApp.exe:
+
 Go to Releases and download TimeApp.exe, then double-click to run the application.
 
 --------------------------------------------------------------------------------------
